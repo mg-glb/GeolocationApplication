@@ -5,4 +5,7 @@
     <string name="no_address_found">No address has been found</string>
     <string name="address_found">An address has been found</string>
     <string name="no_geocoder_available">No Geocoder is available</string>
+    <string name="latitude_default">Latitude</string>
+    <string name="longitude_default">Longitude</string>
+    <string name="address_default">Address</string>
 </resources>
